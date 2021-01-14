@@ -1,16 +1,106 @@
-.panda-card{
-    border:5px solid red;
+
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    color:#363958;
 }
 
-.panda-card-footer{
-    background-color: chartreuse;
+h2{
+    font-size: 48px;
+    font-weight: 700;
 }
 
-.categories img{
-    width:100px;
+h3{
+    font-size: 36px;
+    font-weight: 900;
+    color: #FABE4C;
 }
 
-.panda-slide .carousel-item{
-    background-color:#fceae8;
-    border-radius: 1em;
+h5{
+    font-size:24px;
+    font-weight: bold;
+}
+
+.penguin-logo img{
+    width:291px;
+    height:39.27px;
+}
+
+.penguin-left h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.text-yellow{
+    color:#FABE4C;
+}
+
+.penguin-right img{
+    width:440px;
+    height:500px;
+}
+
+header{
+    background-color:#FFFBF0;
+    width: 1440px;
+    height: 715px;
+}
+
+.button-trolly img{
+    width:25px !important;
+    height:20px !important;
+    margin-right:5px;
+}
+.nav-bg{
+    background-color:#FFFBF0;
+}
+
+.nav-bg a{
+    color: #3C3C3C;
+}
+
+
+.card-border{
+    border: 0;
+}
+
+.women-jkt img{
+    width: 250px;
+    height:250px;
+    }
+
+.men-jkt img{
+    width: 250px;
+    height:250px;
+}
+
+.card-img-top-bg{
+    background-color:#F1F1F1;
+    border-radius: 25px;
+}
+
+.shopping-cart .shopping-cart-right img{
+    width: 599px;
+    height: 354px;
+}
+
+.services-area{
+    width:489px;
+    height:405px;
+}
+
+.services-area img{
+    width:72px;
+    height:76px;
+}
+
+.social-icon img{
+    width: 20px;
+    height:20px;
+    margin:5px;
+}
+
+.btn-bg{
+    background-color: #A4BC46;
+    border:0;
 }
